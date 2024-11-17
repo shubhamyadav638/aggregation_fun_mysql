@@ -85,3 +85,4 @@ LIMIT 1;
 -- What is max number of votes.
 select max(votes) from india_election_2014;
 -- What is min number of votes.
+select min(votes) from india_election_2014;
